@@ -3,18 +3,20 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-package fingersprintv2;
+package prueba;
 
 /**
  *
  * @author andre
  */
 public class Identificar extends javax.swing.JFrame {
+    
 
     /** Creates new form Identificar */
     public Identificar() {
         initComponents();
     }
+    
 
     /** This method is called from within the constructor to
      * initialize the form.
